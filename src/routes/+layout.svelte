@@ -1,5 +1,6 @@
 <script>
 	import Header from './Header.svelte';
+	import '../app.css';
 	import './styles.css';
 </script>
 
@@ -15,7 +16,7 @@
 	</footer>
 </div>
 
-<style>
+<style land="postcss">
 	.app {
 		display: flex;
 		flex-direction: column;
