@@ -1,7 +1,6 @@
 <script>
-	import Counter from './Counter.svelte';
-	import welcome from '$lib/images/svelte-welcome.webp';
-	import welcome_fallback from '$lib/images/svelte-welcome.png';
+	export let data;
+	console.log(data.postData[0]);
 </script>
 
 <svelte:head>
@@ -9,51 +8,24 @@
 	<meta name="description" content="Svelte demo app" />
 </svelte:head>
 
-<section>
-	<h1>
-		<span class="welcome">
-			<picture>
-				<source srcset={welcome} type="image/webp" />
-				<img src={welcome_fallback} alt="Welcome" />
-			</picture>
-		</span>
+<main class="pt-7 pb-7">
+	{#each data.postData as post}
+		<article>
+			<h1 class="text-3xl mb-9 mt-9">{@html post.title.rendered}</h1>
+			<div class="flex">
+				<picture>
+					<img src={post['_embedded']['wp:featuredmedia'][0]['source_url']} />
+				</picture>
+				<div>
+					{@html post.excerpt.rendered}
+				</div>
+			</div>
+		</article>
+	{/each}
+</main>
 
-		to your new<br />SvelteKit app
-	</h1>
-
-	<h2>
-		try editing <strong>src/routes/+page.svelte</strong>
-	</h2>
-
-	<Counter />
-</section>
-
-<style>
-	section {
-		display: flex;
-		flex-direction: column;
-		justify-content: center;
-		align-items: center;
-		flex: 0.6;
-	}
-
-	h1 {
-		width: 100%;
-	}
-
-	.welcome {
-		display: block;
-		position: relative;
-		width: 100%;
-		height: 0;
-		padding: 0 0 calc(100% * 495 / 2048) 0;
-	}
-
-	.welcome img {
-		position: absolute;
-		width: 100%;
-		height: 100%;
-		top: 0;
-		display: block;
+<style lang="postcss">
+	:global(html) {
+		background-color: theme(colors.gray.100);
 	}
 </style>
