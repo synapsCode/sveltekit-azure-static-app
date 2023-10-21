@@ -1,6 +1,5 @@
 <script>
 	export let data;
-	console.log(data.postData[0]);
 </script>
 
 <svelte:head>
@@ -22,6 +21,10 @@
 			</div>
 		</article>
 	{/each}
+	<div class="pagination">
+		<a href="#">Prev</a>
+		<a href="#">Next</a>
+	</div>
 </main>
 
 <style lang="postcss">
