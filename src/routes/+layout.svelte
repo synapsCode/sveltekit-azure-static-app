@@ -5,7 +5,6 @@
 
 <div class="app container mx-auto">
 	<Header />
-
 	<slot />
 
 	<footer>

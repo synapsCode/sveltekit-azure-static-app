@@ -1,0 +1,5708 @@
+[
+	{
+		"id": 28513,
+		"title": {
+			"rendered": "Forums"
+		},
+		"status": "publish",
+		"url": "/%wpforo-home%/",
+		"attr_title": "",
+		"description": "",
+		"type": "custom",
+		"type_label": "Egendefinert lenke",
+		"object": "custom",
+		"object_id": 28513,
+		"parent": 0,
+		"menu_order": 0,
+		"target": "",
+		"classes": ["wpforo-home"],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 4295,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/28513"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=28513"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 58831,
+		"title": {
+			"rendered": "Live Streaming"
+		},
+		"status": "publish",
+		"url": "#",
+		"attr_title": "",
+		"description": "",
+		"type": "custom",
+		"type_label": "Egendefinert lenke",
+		"object": "custom",
+		"object_id": 58831,
+		"parent": 0,
+		"menu_order": 0,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 6754,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/58831"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=58831"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 58840,
+		"title": {
+			"rendered": "Sporten.com er en del av Discover Sports Media"
+		},
+		"status": "publish",
+		"url": "https://sporten.com/",
+		"attr_title": "",
+		"description": "",
+		"type": "post_type",
+		"type_label": "Side",
+		"object": "page",
+		"object_id": 58839,
+		"parent": 0,
+		"menu_order": 0,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 6755,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/58840"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=58840"
+				}
+			],
+			"wp:menu-item-object": [
+				{
+					"post_type": "page",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/pages/58839"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 8950,
+		"title": {
+			"rendered": "Helsesjefen"
+		},
+		"status": "publish",
+		"url": "https://www.helsesjefen.no/",
+		"attr_title": "",
+		"description": "",
+		"type": "custom",
+		"type_label": "Egendefinert lenke",
+		"object": "custom",
+		"object_id": 8950,
+		"parent": 0,
+		"menu_order": 1,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 89,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/8950"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=8950"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 28519,
+		"title": {
+			"rendered": "Activity"
+		},
+		"status": "publish",
+		"url": "/%wpforo-profile-activity%/",
+		"attr_title": "",
+		"description": "",
+		"type": "custom",
+		"type_label": "Egendefinert lenke",
+		"object": "custom",
+		"object_id": 28519,
+		"parent": 28517,
+		"menu_order": 1,
+		"target": "",
+		"classes": ["wpforo-profile-activity"],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 4295,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/28519"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=28519"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 187910,
+		"title": {
+			"rendered": "Casino på nett"
+		},
+		"status": "publish",
+		"url": "https://www.nettcasino.com/",
+		"attr_title": "",
+		"description": "",
+		"type": "custom",
+		"type_label": "Egendefinert lenke",
+		"object": "custom",
+		"object_id": 187910,
+		"parent": 0,
+		"menu_order": 1,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 7544,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/187910"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=187910"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 28518,
+		"title": {
+			"rendered": "Account"
+		},
+		"status": "publish",
+		"url": "/%wpforo-profile-account%/",
+		"attr_title": "",
+		"description": "",
+		"type": "custom",
+		"type_label": "Egendefinert lenke",
+		"object": "custom",
+		"object_id": 28518,
+		"parent": 28517,
+		"menu_order": 1,
+		"target": "",
+		"classes": ["wpforo-profile-account"],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 4295,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/28518"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=28518"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 58835,
+		"title": {
+			"rendered": "TV Listing"
+		},
+		"status": "publish",
+		"url": "#",
+		"attr_title": "",
+		"description": "",
+		"type": "custom",
+		"type_label": "Egendefinert lenke",
+		"object": "custom",
+		"object_id": 58835,
+		"parent": 0,
+		"menu_order": 1,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 6756,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/58835"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=58835"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 59113,
+		"title": {
+			"rendered": "Fotball"
+		},
+		"status": "publish",
+		"url": "https://sporten.com/category/fotball/",
+		"attr_title": "",
+		"description": "",
+		"type": "taxonomy",
+		"type_label": "Kategori",
+		"object": "category",
+		"object_id": 6,
+		"parent": 0,
+		"menu_order": 1,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 6771,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/59113"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=59113"
+				}
+			],
+			"wp:menu-item-object": [
+				{
+					"taxonomy": "category",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/categories/6"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 25,
+		"title": {
+			"rendered": "Fotball"
+		},
+		"status": "publish",
+		"url": "https://sporten.com/category/fotball/",
+		"attr_title": "",
+		"description": "",
+		"type": "taxonomy",
+		"type_label": "Kategori",
+		"object": "category",
+		"object_id": 6,
+		"parent": 0,
+		"menu_order": 1,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 5,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/25"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=25"
+				}
+			],
+			"wp:menu-item-object": [
+				{
+					"taxonomy": "category",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/categories/6"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 59118,
+		"title": {
+			"rendered": "La Liga"
+		},
+		"status": "publish",
+		"url": "https://sporten.com/category/fotball/la-liga/",
+		"attr_title": "",
+		"description": "",
+		"type": "taxonomy",
+		"type_label": "Kategori",
+		"object": "category",
+		"object_id": 54,
+		"parent": 59113,
+		"menu_order": 2,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 6771,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/59118"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=59118"
+				}
+			],
+			"wp:menu-item-object": [
+				{
+					"taxonomy": "category",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/categories/54"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 28520,
+		"title": {
+			"rendered": "Subscriptions"
+		},
+		"status": "publish",
+		"url": "/%wpforo-profile-subscriptions%/",
+		"attr_title": "",
+		"description": "",
+		"type": "custom",
+		"type_label": "Egendefinert lenke",
+		"object": "custom",
+		"object_id": 28520,
+		"parent": 28517,
+		"menu_order": 2,
+		"target": "",
+		"classes": ["wpforo-profile-subscriptions"],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 4295,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/28520"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=28520"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 58832,
+		"title": {
+			"rendered": "Odds"
+		},
+		"status": "publish",
+		"url": "#",
+		"attr_title": "",
+		"description": "",
+		"type": "custom",
+		"type_label": "Egendefinert lenke",
+		"object": "custom",
+		"object_id": 58832,
+		"parent": 0,
+		"menu_order": 2,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 6754,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/58832"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=58832"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 28515,
+		"title": {
+			"rendered": "Members"
+		},
+		"status": "publish",
+		"url": "/%wpforo-members%/",
+		"attr_title": "",
+		"description": "",
+		"type": "custom",
+		"type_label": "Egendefinert lenke",
+		"object": "custom",
+		"object_id": 28515,
+		"parent": 0,
+		"menu_order": 2,
+		"target": "",
+		"classes": ["wpforo-members"],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 4295,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/28515"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=28515"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 531,
+		"title": {
+			"rendered": "Premier League"
+		},
+		"status": "publish",
+		"url": "https://sporten.com/category/fotball/premier-league/",
+		"attr_title": "",
+		"description": "",
+		"type": "taxonomy",
+		"type_label": "Kategori",
+		"object": "category",
+		"object_id": 10,
+		"parent": 25,
+		"menu_order": 2,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 5,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/531"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=531"
+				}
+			],
+			"wp:menu-item-object": [
+				{
+					"taxonomy": "category",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/categories/10"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 58841,
+		"title": {
+			"rendered": "Sport Today"
+		},
+		"status": "publish",
+		"url": "#",
+		"attr_title": "",
+		"description": "",
+		"type": "custom",
+		"type_label": "Egendefinert lenke",
+		"object": "custom",
+		"object_id": 58841,
+		"parent": 0,
+		"menu_order": 2,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 6755,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/58841"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=58841"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 17624,
+		"title": {
+			"rendered": "Popidol"
+		},
+		"status": "publish",
+		"url": "https://www.popidol.no/",
+		"attr_title": "",
+		"description": "",
+		"type": "custom",
+		"type_label": "Egendefinert lenke",
+		"object": "custom",
+		"object_id": 17624,
+		"parent": 0,
+		"menu_order": 2,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 89,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/17624"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=17624"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 58836,
+		"title": {
+			"rendered": "Scores"
+		},
+		"status": "publish",
+		"url": "#",
+		"attr_title": "",
+		"description": "",
+		"type": "custom",
+		"type_label": "Egendefinert lenke",
+		"object": "custom",
+		"object_id": 58836,
+		"parent": 0,
+		"menu_order": 2,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 6756,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/58836"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=58836"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 187911,
+		"title": {
+			"rendered": "Nye casinoer"
+		},
+		"status": "publish",
+		"url": "https://www.nyecasino.me/",
+		"attr_title": "",
+		"description": "",
+		"type": "custom",
+		"type_label": "Egendefinert lenke",
+		"object": "custom",
+		"object_id": 187911,
+		"parent": 0,
+		"menu_order": 2,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 7544,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/187911"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=187911"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 81466,
+		"title": {
+			"rendered": "Alt om odds og betting på nett &#8211; Bettingselskaper.com"
+		},
+		"status": "publish",
+		"url": "https://www.bettingselskaper.com/",
+		"attr_title": "",
+		"description": "",
+		"type": "custom",
+		"type_label": "Egendefinert lenke",
+		"object": "custom",
+		"object_id": 81466,
+		"parent": 0,
+		"menu_order": 3,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 7544,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/81466"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=81466"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 28516,
+		"title": {
+			"rendered": "Recent Posts"
+		},
+		"status": "publish",
+		"url": "/%wpforo-recent%/",
+		"attr_title": "",
+		"description": "",
+		"type": "custom",
+		"type_label": "Egendefinert lenke",
+		"object": "custom",
+		"object_id": 28516,
+		"parent": 0,
+		"menu_order": 3,
+		"target": "",
+		"classes": ["wpforo-recent"],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 4295,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/28516"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=28516"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 59114,
+		"title": {
+			"rendered": "Premier League"
+		},
+		"status": "publish",
+		"url": "https://sporten.com/category/fotball/premier-league/",
+		"attr_title": "",
+		"description": "",
+		"type": "taxonomy",
+		"type_label": "Kategori",
+		"object": "category",
+		"object_id": 10,
+		"parent": 59113,
+		"menu_order": 3,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 6771,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/59114"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=59114"
+				}
+			],
+			"wp:menu-item-object": [
+				{
+					"taxonomy": "category",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/categories/10"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 8951,
+		"title": {
+			"rendered": "F7"
+		},
+		"status": "publish",
+		"url": "https://f7.no/",
+		"attr_title": "",
+		"description": "",
+		"type": "custom",
+		"type_label": "Egendefinert lenke",
+		"object": "custom",
+		"object_id": 8951,
+		"parent": 0,
+		"menu_order": 3,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 89,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/8951"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=8951"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 58837,
+		"title": {
+			"rendered": "Odds"
+		},
+		"status": "publish",
+		"url": "#",
+		"attr_title": "",
+		"description": "",
+		"type": "custom",
+		"type_label": "Egendefinert lenke",
+		"object": "custom",
+		"object_id": 58837,
+		"parent": 0,
+		"menu_order": 3,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 6756,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/58837"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=58837"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 4325,
+		"title": {
+			"rendered": "Championship"
+		},
+		"status": "publish",
+		"url": "https://sporten.com/category/fotball/premier-league/championship/",
+		"attr_title": "",
+		"description": "",
+		"type": "taxonomy",
+		"type_label": "Kategori",
+		"object": "category",
+		"object_id": 11,
+		"parent": 531,
+		"menu_order": 3,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 5,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/4325"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=4325"
+				}
+			],
+			"wp:menu-item-object": [
+				{
+					"taxonomy": "category",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/categories/11"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 58833,
+		"title": {
+			"rendered": "Scores"
+		},
+		"status": "publish",
+		"url": "#",
+		"attr_title": "",
+		"description": "",
+		"type": "custom",
+		"type_label": "Egendefinert lenke",
+		"object": "custom",
+		"object_id": 58833,
+		"parent": 0,
+		"menu_order": 3,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 6754,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/58833"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=58833"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 58842,
+		"title": {
+			"rendered": "Tennis"
+		},
+		"status": "publish",
+		"url": "#",
+		"attr_title": "",
+		"description": "",
+		"type": "custom",
+		"type_label": "Egendefinert lenke",
+		"object": "custom",
+		"object_id": 58842,
+		"parent": 0,
+		"menu_order": 3,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 6755,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/58842"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=58842"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 59115,
+		"title": {
+			"rendered": "Championship"
+		},
+		"status": "publish",
+		"url": "https://sporten.com/category/fotball/premier-league/championship/",
+		"attr_title": "",
+		"description": "",
+		"type": "taxonomy",
+		"type_label": "Kategori",
+		"object": "category",
+		"object_id": 11,
+		"parent": 59114,
+		"menu_order": 4,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 6771,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/59115"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=59115"
+				}
+			],
+			"wp:menu-item-object": [
+				{
+					"taxonomy": "category",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/categories/11"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 59147,
+		"title": {
+			"rendered": "F7Hvordanlage"
+		},
+		"status": "publish",
+		"url": "https://www.f7hvordanlage.no/",
+		"attr_title": "",
+		"description": "",
+		"type": "custom",
+		"type_label": "Egendefinert lenke",
+		"object": "custom",
+		"object_id": 59147,
+		"parent": 8951,
+		"menu_order": 4,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 89,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/59147"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=59147"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 58843,
+		"title": {
+			"rendered": "Billiard"
+		},
+		"status": "publish",
+		"url": "#",
+		"attr_title": "",
+		"description": "",
+		"type": "custom",
+		"type_label": "Egendefinert lenke",
+		"object": "custom",
+		"object_id": 58843,
+		"parent": 0,
+		"menu_order": 4,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 6755,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/58843"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=58843"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 121877,
+		"title": {
+			"rendered": "Kongebonus &#8211; Norsk online casino guide 2023"
+		},
+		"status": "publish",
+		"url": "https://www.kongebonus.com/",
+		"attr_title": "",
+		"description": "",
+		"type": "custom",
+		"type_label": "Egendefinert lenke",
+		"object": "custom",
+		"object_id": 121877,
+		"parent": 0,
+		"menu_order": 4,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 7544,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/121877"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=121877"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 533,
+		"title": {
+			"rendered": "Eliteserien"
+		},
+		"status": "publish",
+		"url": "https://sporten.com/category/fotball/eliteserien/",
+		"attr_title": "",
+		"description": "",
+		"type": "taxonomy",
+		"type_label": "Kategori",
+		"object": "category",
+		"object_id": 19,
+		"parent": 25,
+		"menu_order": 4,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 5,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/533"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=533"
+				}
+			],
+			"wp:menu-item-object": [
+				{
+					"taxonomy": "category",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/categories/19"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 58838,
+		"title": {
+			"rendered": "Buy Now"
+		},
+		"status": "publish",
+		"url": "http://themeforest.net/item/newspaper/5489609",
+		"attr_title": "",
+		"description": "",
+		"type": "custom",
+		"type_label": "Egendefinert lenke",
+		"object": "custom",
+		"object_id": 58838,
+		"parent": 0,
+		"menu_order": 4,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 6756,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/58838"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=58838"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 28517,
+		"title": {
+			"rendered": "My Profile"
+		},
+		"status": "publish",
+		"url": "/%wpforo-profile-home%/",
+		"attr_title": "",
+		"description": "",
+		"type": "custom",
+		"type_label": "Egendefinert lenke",
+		"object": "custom",
+		"object_id": 28517,
+		"parent": 0,
+		"menu_order": 4,
+		"target": "",
+		"classes": ["wpforo-profile"],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 4295,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/28517"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=28517"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 58834,
+		"title": {
+			"rendered": "Buy Now"
+		},
+		"status": "publish",
+		"url": "http://themeforest.net/item/newspaper/5489609",
+		"attr_title": "",
+		"description": "",
+		"type": "custom",
+		"type_label": "Egendefinert lenke",
+		"object": "custom",
+		"object_id": 58834,
+		"parent": 0,
+		"menu_order": 4,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 6754,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/58834"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=58834"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 58844,
+		"title": {
+			"rendered": "WRC"
+		},
+		"status": "publish",
+		"url": "#",
+		"attr_title": "",
+		"description": "",
+		"type": "custom",
+		"type_label": "Egendefinert lenke",
+		"object": "custom",
+		"object_id": 58844,
+		"parent": 0,
+		"menu_order": 5,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 6755,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/58844"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=58844"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 59119,
+		"title": {
+			"rendered": "Bundesliga"
+		},
+		"status": "publish",
+		"url": "https://sporten.com/category/fotball/bundesliga/",
+		"attr_title": "",
+		"description": "",
+		"type": "taxonomy",
+		"type_label": "Kategori",
+		"object": "category",
+		"object_id": 206,
+		"parent": 59113,
+		"menu_order": 5,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 6771,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/59119"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=59119"
+				}
+			],
+			"wp:menu-item-object": [
+				{
+					"taxonomy": "category",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/categories/206"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 59148,
+		"title": {
+			"rendered": "F7city.no"
+		},
+		"status": "publish",
+		"url": "https://www.f7city.no/",
+		"attr_title": "",
+		"description": "",
+		"type": "custom",
+		"type_label": "Egendefinert lenke",
+		"object": "custom",
+		"object_id": 59148,
+		"parent": 8951,
+		"menu_order": 5,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 89,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/59148"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=59148"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 534,
+		"title": {
+			"rendered": "OBOS-Ligaen"
+		},
+		"status": "publish",
+		"url": "https://sporten.com/category/fotball/eliteserien/obos-ligaen/",
+		"attr_title": "",
+		"description": "",
+		"type": "taxonomy",
+		"type_label": "Kategori",
+		"object": "category",
+		"object_id": 34,
+		"parent": 533,
+		"menu_order": 5,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 5,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/534"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=534"
+				}
+			],
+			"wp:menu-item-object": [
+				{
+					"taxonomy": "category",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/categories/34"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 81057,
+		"title": {
+			"rendered": "Casino Bonus uten innskudd"
+		},
+		"status": "publish",
+		"url": "https://www.casinotopplisten.com/casino-bonus/gratis-casino-bonus/",
+		"attr_title": "",
+		"description": "",
+		"type": "custom",
+		"type_label": "Egendefinert lenke",
+		"object": "custom",
+		"object_id": 81057,
+		"parent": 0,
+		"menu_order": 5,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 7544,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/81057"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=81057"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 59120,
+		"title": {
+			"rendered": "Ligue 1"
+		},
+		"status": "publish",
+		"url": "https://sporten.com/category/fotball/ligue-1/",
+		"attr_title": "",
+		"description": "",
+		"type": "taxonomy",
+		"type_label": "Kategori",
+		"object": "category",
+		"object_id": 196,
+		"parent": 59113,
+		"menu_order": 6,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 6771,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/59120"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=59120"
+				}
+			],
+			"wp:menu-item-object": [
+				{
+					"taxonomy": "category",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/categories/196"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 4324,
+		"title": {
+			"rendered": "PostNord-ligaen"
+		},
+		"status": "publish",
+		"url": "https://sporten.com/category/fotball/eliteserien/obos-ligaen/postnord-ligaen/",
+		"attr_title": "",
+		"description": "",
+		"type": "taxonomy",
+		"type_label": "Kategori",
+		"object": "category",
+		"object_id": 44,
+		"parent": 534,
+		"menu_order": 6,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 5,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/4324"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=4324"
+				}
+			],
+			"wp:menu-item-object": [
+				{
+					"taxonomy": "category",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/categories/44"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 58845,
+		"title": {
+			"rendered": "Video"
+		},
+		"status": "publish",
+		"url": "#",
+		"attr_title": "",
+		"description": "",
+		"type": "custom",
+		"type_label": "Egendefinert lenke",
+		"object": "custom",
+		"object_id": 58845,
+		"parent": 0,
+		"menu_order": 6,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 6755,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/58845"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=58845"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 69359,
+		"title": {
+			"rendered": "Engelske klubber"
+		},
+		"status": "publish",
+		"url": "https://www.engelskeklubber.com/",
+		"attr_title": "",
+		"description": "",
+		"type": "custom",
+		"type_label": "Egendefinert lenke",
+		"object": "custom",
+		"object_id": 69359,
+		"parent": 0,
+		"menu_order": 6,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 89,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/69359"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=69359"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 72397,
+		"title": {
+			"rendered": "Oversikt over billigste forbrukslån på Matchbanker"
+		},
+		"status": "publish",
+		"url": "https://matchbanker.no/",
+		"attr_title": "",
+		"description": "",
+		"type": "custom",
+		"type_label": "Egendefinert lenke",
+		"object": "custom",
+		"object_id": 72397,
+		"parent": 0,
+		"menu_order": 6,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 7544,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/72397"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=72397"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 87575,
+		"title": {
+			"rendered": "Casino bonus uten innskudd"
+		},
+		"status": "publish",
+		"url": "https://www.norskespilleautomater.com/casinobonus-uten-innskudd",
+		"attr_title": "",
+		"description": "",
+		"type": "custom",
+		"type_label": "Egendefinert lenke",
+		"object": "custom",
+		"object_id": 87575,
+		"parent": 0,
+		"menu_order": 7,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 7544,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/87575"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=87575"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 535,
+		"title": {
+			"rendered": "La Liga"
+		},
+		"status": "publish",
+		"url": "https://sporten.com/category/fotball/la-liga/",
+		"attr_title": "",
+		"description": "",
+		"type": "taxonomy",
+		"type_label": "Kategori",
+		"object": "category",
+		"object_id": 54,
+		"parent": 25,
+		"menu_order": 7,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 5,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/535"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=535"
+				}
+			],
+			"wp:menu-item-object": [
+				{
+					"taxonomy": "category",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/categories/54"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 60146,
+		"title": {
+			"rendered": "Serie A"
+		},
+		"status": "publish",
+		"url": "https://sporten.com/category/fotball/serie-a/",
+		"attr_title": "",
+		"description": "",
+		"type": "taxonomy",
+		"type_label": "Kategori",
+		"object": "category",
+		"object_id": 129,
+		"parent": 59113,
+		"menu_order": 7,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 6771,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/60146"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=60146"
+				}
+			],
+			"wp:menu-item-object": [
+				{
+					"taxonomy": "category",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/categories/129"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 69360,
+		"title": {
+			"rendered": "Spansk fotball"
+		},
+		"status": "publish",
+		"url": "https://www.spanskfotball.eu/",
+		"attr_title": "",
+		"description": "",
+		"type": "custom",
+		"type_label": "Egendefinert lenke",
+		"object": "custom",
+		"object_id": 69360,
+		"parent": 0,
+		"menu_order": 7,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 89,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/69360"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=69360"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 58846,
+		"title": {
+			"rendered": "More"
+		},
+		"status": "publish",
+		"url": "#",
+		"attr_title": "",
+		"description": "",
+		"type": "custom",
+		"type_label": "Egendefinert lenke",
+		"object": "custom",
+		"object_id": 58846,
+		"parent": 0,
+		"menu_order": 7,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 6755,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/58846"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=58846"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 59121,
+		"title": {
+			"rendered": "Champions League"
+		},
+		"status": "publish",
+		"url": "https://sporten.com/category/fotball/champions-league/",
+		"attr_title": "",
+		"description": "",
+		"type": "taxonomy",
+		"type_label": "Kategori",
+		"object": "category",
+		"object_id": 23,
+		"parent": 59113,
+		"menu_order": 8,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 6771,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/59121"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=59121"
+				}
+			],
+			"wp:menu-item-object": [
+				{
+					"taxonomy": "category",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/categories/23"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 28521,
+		"title": {
+			"rendered": "Register"
+		},
+		"status": "publish",
+		"url": "/%wpforo-register%/",
+		"attr_title": "",
+		"description": "",
+		"type": "custom",
+		"type_label": "Egendefinert lenke",
+		"object": "custom",
+		"object_id": 28521,
+		"parent": 0,
+		"menu_order": 8,
+		"target": "",
+		"classes": ["wpforo-register"],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 4295,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/28521"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=28521"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1798,
+		"title": {
+			"rendered": "Bundesliga"
+		},
+		"status": "publish",
+		"url": "https://sporten.com/category/fotball/bundesliga/",
+		"attr_title": "",
+		"description": "",
+		"type": "taxonomy",
+		"type_label": "Kategori",
+		"object": "category",
+		"object_id": 206,
+		"parent": 25,
+		"menu_order": 8,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 5,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/1798"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=1798"
+				}
+			],
+			"wp:menu-item-object": [
+				{
+					"taxonomy": "category",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/categories/206"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 69361,
+		"title": {
+			"rendered": "Tysk fotball"
+		},
+		"status": "publish",
+		"url": "https://www.tyskfotball.com/",
+		"attr_title": "",
+		"description": "",
+		"type": "custom",
+		"type_label": "Egendefinert lenke",
+		"object": "custom",
+		"object_id": 69361,
+		"parent": 0,
+		"menu_order": 8,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 89,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/69361"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=69361"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 59112,
+		"title": {
+			"rendered": "Eliteserien"
+		},
+		"status": "publish",
+		"url": "https://sporten.com/category/fotball/eliteserien/",
+		"attr_title": "",
+		"description": "",
+		"type": "taxonomy",
+		"type_label": "Kategori",
+		"object": "category",
+		"object_id": 19,
+		"parent": 59113,
+		"menu_order": 9,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 6771,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/59112"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=59112"
+				}
+			],
+			"wp:menu-item-object": [
+				{
+					"taxonomy": "category",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/categories/19"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 28522,
+		"title": {
+			"rendered": "Login"
+		},
+		"status": "publish",
+		"url": "/%wpforo-login%/",
+		"attr_title": "",
+		"description": "",
+		"type": "custom",
+		"type_label": "Egendefinert lenke",
+		"object": "custom",
+		"object_id": 28522,
+		"parent": 0,
+		"menu_order": 9,
+		"target": "",
+		"classes": ["wpforo-login"],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 4295,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/28522"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=28522"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 537,
+		"title": {
+			"rendered": "Ligue 1"
+		},
+		"status": "publish",
+		"url": "https://sporten.com/category/fotball/ligue-1/",
+		"attr_title": "",
+		"description": "",
+		"type": "taxonomy",
+		"type_label": "Kategori",
+		"object": "category",
+		"object_id": 196,
+		"parent": 25,
+		"menu_order": 9,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 5,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/537"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=537"
+				}
+			],
+			"wp:menu-item-object": [
+				{
+					"taxonomy": "category",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/categories/196"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 69362,
+		"title": {
+			"rendered": "Dansk fotball"
+		},
+		"status": "publish",
+		"url": "https://www.danskfotball.com/",
+		"attr_title": "",
+		"description": "",
+		"type": "custom",
+		"type_label": "Egendefinert lenke",
+		"object": "custom",
+		"object_id": 69362,
+		"parent": 0,
+		"menu_order": 9,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 89,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/69362"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=69362"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 69363,
+		"title": {
+			"rendered": "Svensk fotball"
+		},
+		"status": "publish",
+		"url": "https://www.svenskfotball.com/",
+		"attr_title": "",
+		"description": "",
+		"type": "custom",
+		"type_label": "Egendefinert lenke",
+		"object": "custom",
+		"object_id": 69363,
+		"parent": 0,
+		"menu_order": 10,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 89,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/69363"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=69363"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 532,
+		"title": {
+			"rendered": "Champions League"
+		},
+		"status": "publish",
+		"url": "https://sporten.com/category/fotball/champions-league/",
+		"attr_title": "",
+		"description": "",
+		"type": "taxonomy",
+		"type_label": "Kategori",
+		"object": "category",
+		"object_id": 23,
+		"parent": 25,
+		"menu_order": 10,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 5,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/532"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=532"
+				}
+			],
+			"wp:menu-item-object": [
+				{
+					"taxonomy": "category",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/categories/23"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 59116,
+		"title": {
+			"rendered": "OBOS-Ligaen"
+		},
+		"status": "publish",
+		"url": "https://sporten.com/category/fotball/eliteserien/obos-ligaen/",
+		"attr_title": "",
+		"description": "",
+		"type": "taxonomy",
+		"type_label": "Kategori",
+		"object": "category",
+		"object_id": 34,
+		"parent": 59112,
+		"menu_order": 10,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 6771,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/59116"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=59116"
+				}
+			],
+			"wp:menu-item-object": [
+				{
+					"taxonomy": "category",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/categories/34"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 28523,
+		"title": {
+			"rendered": "Logout"
+		},
+		"status": "publish",
+		"url": "/%wpforo-logout%/",
+		"attr_title": "",
+		"description": "",
+		"type": "custom",
+		"type_label": "Egendefinert lenke",
+		"object": "custom",
+		"object_id": 28523,
+		"parent": 0,
+		"menu_order": 10,
+		"target": "",
+		"classes": ["wpforo-logout"],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 4295,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/28523"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=28523"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 59117,
+		"title": {
+			"rendered": "PostNord-ligaen"
+		},
+		"status": "publish",
+		"url": "https://sporten.com/category/fotball/eliteserien/obos-ligaen/postnord-ligaen/",
+		"attr_title": "",
+		"description": "",
+		"type": "taxonomy",
+		"type_label": "Kategori",
+		"object": "category",
+		"object_id": 44,
+		"parent": 59116,
+		"menu_order": 11,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 6771,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/59117"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=59117"
+				}
+			],
+			"wp:menu-item-object": [
+				{
+					"taxonomy": "category",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/categories/44"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 15,
+		"title": {
+			"rendered": "Vintersport"
+		},
+		"status": "publish",
+		"url": "https://sporten.com/category/vintersport/",
+		"attr_title": "",
+		"description": "",
+		"type": "taxonomy",
+		"type_label": "Kategori",
+		"object": "category",
+		"object_id": 2,
+		"parent": 0,
+		"menu_order": 11,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 5,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/15"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=15"
+				}
+			],
+			"wp:menu-item-object": [
+				{
+					"taxonomy": "category",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/categories/2"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 182362,
+		"title": {
+			"rendered": "Live"
+		},
+		"status": "publish",
+		"url": "https://live.sporten.com/",
+		"attr_title": "",
+		"description": "",
+		"type": "custom",
+		"type_label": "Egendefinert lenke",
+		"object": "custom",
+		"object_id": 182362,
+		"parent": 0,
+		"menu_order": 12,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 6771,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/182362"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=182362"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 538,
+		"title": {
+			"rendered": "Langrenn"
+		},
+		"status": "publish",
+		"url": "https://sporten.com/category/vintersport/langrenn/",
+		"attr_title": "",
+		"description": "",
+		"type": "taxonomy",
+		"type_label": "Kategori",
+		"object": "category",
+		"object_id": 3,
+		"parent": 15,
+		"menu_order": 12,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 5,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/538"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=538"
+				}
+			],
+			"wp:menu-item-object": [
+				{
+					"taxonomy": "category",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/categories/3"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1795,
+		"title": {
+			"rendered": "Skiskyting"
+		},
+		"status": "publish",
+		"url": "https://sporten.com/category/vintersport/skiskyting/",
+		"attr_title": "",
+		"description": "",
+		"type": "taxonomy",
+		"type_label": "Kategori",
+		"object": "category",
+		"object_id": 279,
+		"parent": 15,
+		"menu_order": 13,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 5,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/1795"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=1795"
+				}
+			],
+			"wp:menu-item-object": [
+				{
+					"taxonomy": "category",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/categories/279"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 59122,
+		"title": {
+			"rendered": "Vintersport"
+		},
+		"status": "publish",
+		"url": "https://sporten.com/category/vintersport/",
+		"attr_title": "",
+		"description": "",
+		"type": "taxonomy",
+		"type_label": "Kategori",
+		"object": "category",
+		"object_id": 2,
+		"parent": 0,
+		"menu_order": 13,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 6771,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/59122"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=59122"
+				}
+			],
+			"wp:menu-item-object": [
+				{
+					"taxonomy": "category",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/categories/2"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 59123,
+		"title": {
+			"rendered": "Langrenn"
+		},
+		"status": "publish",
+		"url": "https://sporten.com/category/vintersport/langrenn/",
+		"attr_title": "",
+		"description": "",
+		"type": "taxonomy",
+		"type_label": "Kategori",
+		"object": "category",
+		"object_id": 3,
+		"parent": 59122,
+		"menu_order": 14,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 6771,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/59123"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=59123"
+				}
+			],
+			"wp:menu-item-object": [
+				{
+					"taxonomy": "category",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/categories/3"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 13597,
+		"title": {
+			"rendered": "Alpint"
+		},
+		"status": "publish",
+		"url": "https://sporten.com/category/vintersport/alpint/",
+		"attr_title": "",
+		"description": "",
+		"type": "taxonomy",
+		"type_label": "Kategori",
+		"object": "category",
+		"object_id": 1377,
+		"parent": 15,
+		"menu_order": 14,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 5,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/13597"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=13597"
+				}
+			],
+			"wp:menu-item-object": [
+				{
+					"taxonomy": "category",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/categories/1377"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 59124,
+		"title": {
+			"rendered": "Skiskyting"
+		},
+		"status": "publish",
+		"url": "https://sporten.com/category/vintersport/skiskyting/",
+		"attr_title": "",
+		"description": "",
+		"type": "taxonomy",
+		"type_label": "Kategori",
+		"object": "category",
+		"object_id": 279,
+		"parent": 59122,
+		"menu_order": 15,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 6771,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/59124"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=59124"
+				}
+			],
+			"wp:menu-item-object": [
+				{
+					"taxonomy": "category",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/categories/279"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1794,
+		"title": {
+			"rendered": "Ishockey"
+		},
+		"status": "publish",
+		"url": "https://sporten.com/category/adrenalin/ishockey/",
+		"attr_title": "",
+		"description": "",
+		"type": "taxonomy",
+		"type_label": "Kategori",
+		"object": "category",
+		"object_id": 269,
+		"parent": 15,
+		"menu_order": 15,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 5,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/1794"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=1794"
+				}
+			],
+			"wp:menu-item-object": [
+				{
+					"taxonomy": "category",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/categories/269"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 59125,
+		"title": {
+			"rendered": "Alpint"
+		},
+		"status": "publish",
+		"url": "https://sporten.com/category/vintersport/alpint/",
+		"attr_title": "",
+		"description": "",
+		"type": "taxonomy",
+		"type_label": "Kategori",
+		"object": "category",
+		"object_id": 1377,
+		"parent": 59122,
+		"menu_order": 16,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 6771,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/59125"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=59125"
+				}
+			],
+			"wp:menu-item-object": [
+				{
+					"taxonomy": "category",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/categories/1377"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1796,
+		"title": {
+			"rendered": "Snowboard"
+		},
+		"status": "publish",
+		"url": "https://sporten.com/category/vintersport/snowboard/",
+		"attr_title": "",
+		"description": "",
+		"type": "taxonomy",
+		"type_label": "Kategori",
+		"object": "category",
+		"object_id": 131,
+		"parent": 15,
+		"menu_order": 16,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 5,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/1796"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=1796"
+				}
+			],
+			"wp:menu-item-object": [
+				{
+					"taxonomy": "category",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/categories/131"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 17250,
+		"title": {
+			"rendered": "Adrenalin"
+		},
+		"status": "publish",
+		"url": "https://sporten.com/category/adrenalin/",
+		"attr_title": "",
+		"description": "",
+		"type": "taxonomy",
+		"type_label": "Kategori",
+		"object": "category",
+		"object_id": 3144,
+		"parent": 0,
+		"menu_order": 17,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 5,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/17250"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=17250"
+				}
+			],
+			"wp:menu-item-object": [
+				{
+					"taxonomy": "category",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/categories/3144"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 59126,
+		"title": {
+			"rendered": "Ishockey"
+		},
+		"status": "publish",
+		"url": "https://sporten.com/category/adrenalin/ishockey/",
+		"attr_title": "",
+		"description": "",
+		"type": "taxonomy",
+		"type_label": "Kategori",
+		"object": "category",
+		"object_id": 269,
+		"parent": 59122,
+		"menu_order": 17,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 6771,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/59126"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=59126"
+				}
+			],
+			"wp:menu-item-object": [
+				{
+					"taxonomy": "category",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/categories/269"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 17251,
+		"title": {
+			"rendered": "Kampsport"
+		},
+		"status": "publish",
+		"url": "https://sporten.com/category/adrenalin/kampsport/",
+		"attr_title": "",
+		"description": "",
+		"type": "taxonomy",
+		"type_label": "Kategori",
+		"object": "category",
+		"object_id": 1527,
+		"parent": 17250,
+		"menu_order": 18,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 5,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/17251"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=17251"
+				}
+			],
+			"wp:menu-item-object": [
+				{
+					"taxonomy": "category",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/categories/1527"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 59127,
+		"title": {
+			"rendered": "Snowboard"
+		},
+		"status": "publish",
+		"url": "https://sporten.com/category/vintersport/snowboard/",
+		"attr_title": "",
+		"description": "",
+		"type": "taxonomy",
+		"type_label": "Kategori",
+		"object": "category",
+		"object_id": 131,
+		"parent": 59122,
+		"menu_order": 18,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 6771,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/59127"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=59127"
+				}
+			],
+			"wp:menu-item-object": [
+				{
+					"taxonomy": "category",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/categories/131"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 59128,
+		"title": {
+			"rendered": "Adrenalin"
+		},
+		"status": "publish",
+		"url": "https://sporten.com/category/adrenalin/",
+		"attr_title": "",
+		"description": "",
+		"type": "taxonomy",
+		"type_label": "Kategori",
+		"object": "category",
+		"object_id": 3144,
+		"parent": 0,
+		"menu_order": 19,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 6771,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/59128"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=59128"
+				}
+			],
+			"wp:menu-item-object": [
+				{
+					"taxonomy": "category",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/categories/3144"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 17252,
+		"title": {
+			"rendered": "Boksing"
+		},
+		"status": "publish",
+		"url": "https://sporten.com/category/adrenalin/kampsport/boksing/",
+		"attr_title": "",
+		"description": "",
+		"type": "taxonomy",
+		"type_label": "Kategori",
+		"object": "category",
+		"object_id": 1528,
+		"parent": 17251,
+		"menu_order": 19,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 5,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/17252"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=17252"
+				}
+			],
+			"wp:menu-item-object": [
+				{
+					"taxonomy": "category",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/categories/1528"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 17253,
+		"title": {
+			"rendered": "Karate"
+		},
+		"status": "publish",
+		"url": "https://sporten.com/category/adrenalin/kampsport/karate/",
+		"attr_title": "",
+		"description": "",
+		"type": "taxonomy",
+		"type_label": "Kategori",
+		"object": "category",
+		"object_id": 2868,
+		"parent": 17251,
+		"menu_order": 20,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 5,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/17253"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=17253"
+				}
+			],
+			"wp:menu-item-object": [
+				{
+					"taxonomy": "category",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/categories/2868"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 59129,
+		"title": {
+			"rendered": "Kampsport"
+		},
+		"status": "publish",
+		"url": "https://sporten.com/category/adrenalin/kampsport/",
+		"attr_title": "",
+		"description": "",
+		"type": "taxonomy",
+		"type_label": "Kategori",
+		"object": "category",
+		"object_id": 1527,
+		"parent": 59128,
+		"menu_order": 20,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 6771,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/59129"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=59129"
+				}
+			],
+			"wp:menu-item-object": [
+				{
+					"taxonomy": "category",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/categories/1527"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 59130,
+		"title": {
+			"rendered": "Boksing"
+		},
+		"status": "publish",
+		"url": "https://sporten.com/category/adrenalin/kampsport/boksing/",
+		"attr_title": "",
+		"description": "",
+		"type": "taxonomy",
+		"type_label": "Kategori",
+		"object": "category",
+		"object_id": 1528,
+		"parent": 59129,
+		"menu_order": 21,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 6771,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/59130"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=59130"
+				}
+			],
+			"wp:menu-item-object": [
+				{
+					"taxonomy": "category",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/categories/1528"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 17254,
+		"title": {
+			"rendered": "MMA"
+		},
+		"status": "publish",
+		"url": "https://sporten.com/category/adrenalin/kampsport/mma/",
+		"attr_title": "",
+		"description": "",
+		"type": "taxonomy",
+		"type_label": "Kategori",
+		"object": "category",
+		"object_id": 709,
+		"parent": 17251,
+		"menu_order": 21,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 5,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/17254"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=17254"
+				}
+			],
+			"wp:menu-item-object": [
+				{
+					"taxonomy": "category",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/categories/709"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 59131,
+		"title": {
+			"rendered": "Karate"
+		},
+		"status": "publish",
+		"url": "https://sporten.com/category/adrenalin/kampsport/karate/",
+		"attr_title": "",
+		"description": "",
+		"type": "taxonomy",
+		"type_label": "Kategori",
+		"object": "category",
+		"object_id": 2868,
+		"parent": 59129,
+		"menu_order": 22,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 6771,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/59131"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=59131"
+				}
+			],
+			"wp:menu-item-object": [
+				{
+					"taxonomy": "category",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/categories/2868"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 407,
+		"title": {
+			"rendered": "Motorsport"
+		},
+		"status": "publish",
+		"url": "https://sporten.com/category/adrenalin/motorsport/",
+		"attr_title": "",
+		"description": "",
+		"type": "taxonomy",
+		"type_label": "Kategori",
+		"object": "category",
+		"object_id": 164,
+		"parent": 17250,
+		"menu_order": 22,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 5,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/407"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=407"
+				}
+			],
+			"wp:menu-item-object": [
+				{
+					"taxonomy": "category",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/categories/164"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 4602,
+		"title": {
+			"rendered": "Rally"
+		},
+		"status": "publish",
+		"url": "https://sporten.com/category/adrenalin/motorsport/rally/",
+		"attr_title": "",
+		"description": "",
+		"type": "taxonomy",
+		"type_label": "Kategori",
+		"object": "category",
+		"object_id": 1065,
+		"parent": 407,
+		"menu_order": 23,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 5,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/4602"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=4602"
+				}
+			],
+			"wp:menu-item-object": [
+				{
+					"taxonomy": "category",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/categories/1065"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 59132,
+		"title": {
+			"rendered": "MMA"
+		},
+		"status": "publish",
+		"url": "https://sporten.com/category/adrenalin/kampsport/mma/",
+		"attr_title": "",
+		"description": "",
+		"type": "taxonomy",
+		"type_label": "Kategori",
+		"object": "category",
+		"object_id": 709,
+		"parent": 59129,
+		"menu_order": 23,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 6771,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/59132"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=59132"
+				}
+			],
+			"wp:menu-item-object": [
+				{
+					"taxonomy": "category",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/categories/709"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1797,
+		"title": {
+			"rendered": "Formel 1"
+		},
+		"status": "publish",
+		"url": "https://sporten.com/category/adrenalin/motorsport/formel-1/",
+		"attr_title": "",
+		"description": "",
+		"type": "taxonomy",
+		"type_label": "Kategori",
+		"object": "category",
+		"object_id": 165,
+		"parent": 407,
+		"menu_order": 24,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 5,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/1797"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=1797"
+				}
+			],
+			"wp:menu-item-object": [
+				{
+					"taxonomy": "category",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/categories/165"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 59133,
+		"title": {
+			"rendered": "Motorsport"
+		},
+		"status": "publish",
+		"url": "https://sporten.com/category/adrenalin/motorsport/",
+		"attr_title": "",
+		"description": "",
+		"type": "taxonomy",
+		"type_label": "Kategori",
+		"object": "category",
+		"object_id": 164,
+		"parent": 59128,
+		"menu_order": 24,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 6771,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/59133"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=59133"
+				}
+			],
+			"wp:menu-item-object": [
+				{
+					"taxonomy": "category",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/categories/164"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 59134,
+		"title": {
+			"rendered": "Rally"
+		},
+		"status": "publish",
+		"url": "https://sporten.com/category/adrenalin/motorsport/rally/",
+		"attr_title": "",
+		"description": "",
+		"type": "taxonomy",
+		"type_label": "Kategori",
+		"object": "category",
+		"object_id": 1065,
+		"parent": 59133,
+		"menu_order": 25,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 6771,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/59134"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=59134"
+				}
+			],
+			"wp:menu-item-object": [
+				{
+					"taxonomy": "category",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/categories/1065"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 17255,
+		"title": {
+			"rendered": "Ishockey"
+		},
+		"status": "publish",
+		"url": "https://sporten.com/category/adrenalin/ishockey/",
+		"attr_title": "",
+		"description": "",
+		"type": "taxonomy",
+		"type_label": "Kategori",
+		"object": "category",
+		"object_id": 269,
+		"parent": 17250,
+		"menu_order": 25,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 5,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/17255"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=17255"
+				}
+			],
+			"wp:menu-item-object": [
+				{
+					"taxonomy": "category",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/categories/269"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 17256,
+		"title": {
+			"rendered": "Amerikansk Fotball"
+		},
+		"status": "publish",
+		"url": "https://sporten.com/category/adrenalin/amerikansk-fotball/",
+		"attr_title": "",
+		"description": "",
+		"type": "taxonomy",
+		"type_label": "Kategori",
+		"object": "category",
+		"object_id": 1136,
+		"parent": 17250,
+		"menu_order": 26,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 5,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/17256"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=17256"
+				}
+			],
+			"wp:menu-item-object": [
+				{
+					"taxonomy": "category",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/categories/1136"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 59135,
+		"title": {
+			"rendered": "Formel 1"
+		},
+		"status": "publish",
+		"url": "https://sporten.com/category/adrenalin/motorsport/formel-1/",
+		"attr_title": "",
+		"description": "",
+		"type": "taxonomy",
+		"type_label": "Kategori",
+		"object": "category",
+		"object_id": 165,
+		"parent": 59133,
+		"menu_order": 26,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 6771,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/59135"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=59135"
+				}
+			],
+			"wp:menu-item-object": [
+				{
+					"taxonomy": "category",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/categories/165"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 376,
+		"title": {
+			"rendered": "Tennis"
+		},
+		"status": "publish",
+		"url": "https://sporten.com/category/tennis/",
+		"attr_title": "",
+		"description": "",
+		"type": "taxonomy",
+		"type_label": "Kategori",
+		"object": "category",
+		"object_id": 152,
+		"parent": 0,
+		"menu_order": 27,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 5,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/376"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=376"
+				}
+			],
+			"wp:menu-item-object": [
+				{
+					"taxonomy": "category",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/categories/152"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 59136,
+		"title": {
+			"rendered": "Ishockey"
+		},
+		"status": "publish",
+		"url": "https://sporten.com/category/adrenalin/ishockey/",
+		"attr_title": "",
+		"description": "",
+		"type": "taxonomy",
+		"type_label": "Kategori",
+		"object": "category",
+		"object_id": 269,
+		"parent": 59128,
+		"menu_order": 27,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 6771,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/59136"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=59136"
+				}
+			],
+			"wp:menu-item-object": [
+				{
+					"taxonomy": "category",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/categories/269"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 8949,
+		"title": {
+			"rendered": "Håndball"
+		},
+		"status": "publish",
+		"url": "https://sporten.com/category/handball/",
+		"attr_title": "",
+		"description": "",
+		"type": "taxonomy",
+		"type_label": "Kategori",
+		"object": "category",
+		"object_id": 389,
+		"parent": 0,
+		"menu_order": 28,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 5,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/8949"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=8949"
+				}
+			],
+			"wp:menu-item-object": [
+				{
+					"taxonomy": "category",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/categories/389"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 59137,
+		"title": {
+			"rendered": "Amerikansk Fotball"
+		},
+		"status": "publish",
+		"url": "https://sporten.com/category/adrenalin/amerikansk-fotball/",
+		"attr_title": "",
+		"description": "",
+		"type": "taxonomy",
+		"type_label": "Kategori",
+		"object": "category",
+		"object_id": 1136,
+		"parent": 59128,
+		"menu_order": 28,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 6771,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/59137"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=59137"
+				}
+			],
+			"wp:menu-item-object": [
+				{
+					"taxonomy": "category",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/categories/1136"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 59138,
+		"title": {
+			"rendered": "Tennis"
+		},
+		"status": "publish",
+		"url": "https://sporten.com/category/tennis/",
+		"attr_title": "",
+		"description": "",
+		"type": "taxonomy",
+		"type_label": "Kategori",
+		"object": "category",
+		"object_id": 152,
+		"parent": 0,
+		"menu_order": 29,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 6771,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/59138"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=59138"
+				}
+			],
+			"wp:menu-item-object": [
+				{
+					"taxonomy": "category",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/categories/152"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 27530,
+		"title": {
+			"rendered": "Premier League"
+		},
+		"status": "publish",
+		"url": "https://sporten.com/category/fotball/premier-league/",
+		"attr_title": "",
+		"description": "",
+		"type": "taxonomy",
+		"type_label": "Kategori",
+		"object": "category",
+		"object_id": 10,
+		"parent": 0,
+		"menu_order": 29,
+		"target": "",
+		"classes": [""],
+		"xfn": [""],
+		"invalid": false,
+		"meta": [],
+		"menus": 5,
+		"_links": {
+			"self": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items/27530"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/menu-items"
+				}
+			],
+			"about": [
+				{
+					"href": "https://sporten.com/wp-json/wp/v2/types/nav_menu_item"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "nav_menu",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/menus?post=27530"
+				}
+			],
+			"wp:menu-item-object": [
+				{
+					"taxonomy": "category",
+					"embeddable": true,
+					"href": "https://sporten.com/wp-json/wp/v2/categories/10"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	}
+]
