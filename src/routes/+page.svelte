@@ -1,6 +1,7 @@
 <script>
 	export let data;
 	console.log(data.menu);
+	import Wad from '../components/Wad.svelte';
 </script>
 
 <svelte:head>
